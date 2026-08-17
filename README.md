@@ -33,7 +33,6 @@ Worked in a team of four to develop optimization passes for LLVM IR in C++.
 * Refactored the function inlining pass while satisfying a **32-register constraint**
 * Wrote LLVM IR test cases for implemented optimization passes
 * Reviewed teammates' pull requests and discussed correctness and edge cases
-* Used **Alive2** while working with LLVM IR optimizations
 
 The course repository is private.
 
@@ -76,5 +75,7 @@ Topics include:
 * OCaml (basic)
 
 ## Contact
+
+[CV](./assets/CV.pdf)
 
 Email: [ean020920@gmail.com](mailto:ean020920@gmail.com)
