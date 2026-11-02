@@ -40,9 +40,9 @@ The course repository is private.
 
 ### MIND Seminar
 
-Preparing a series of technical presentations for the **MIND Seminar**, a student-led seminar at Seoul National University.
+Prepared and delivered three technical presentations for the **MIND Seminar**, a student-led seminar at Seoul National University.
 
-My part focuses on classical computing from its theoretical foundations to its architecture, limits, and applications.
+My part focused on classical computing from its theoretical foundations to its architecture, limits, and applications.
 
 Topics include:
 
