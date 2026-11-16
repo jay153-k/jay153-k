@@ -9,6 +9,7 @@ Expected graduation: **February 2028**
 ## Competitive Programming
 
 * **ICPC Seoul Regional 2025** — 9th / 84 teams, Bronze Medal
+* **ICPC Seoul Regional 2026** — 18th / 81 teams, Honorable Mention
 * **UCPC 2025** — 10th, 4th Prize
 * **UCPC 2026** — 12th, 5th Prize
 
